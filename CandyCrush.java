@@ -1,11 +1,11 @@
 
 //esmanur ulu
-//231101024
+
 import java.util.Random;
 import java.util.Scanner;
 
 
-//import homework1.CandyCrush2.Colors;
+
 
 public class CandyCrush {
 //oyunu kazanmak icin gereken puanları mode1 icin 400 puan,
